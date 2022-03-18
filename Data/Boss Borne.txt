@@ -1,0 +1,10 @@
+判定用のボーンパス
+
+Tail1, Tail2, Tail3, Tail4, Tail5 // 尻尾
+
+Spine1, Spine2, Chest // 胴体
+
+Neck1, Neck2, Neck3, Neck4, Neck5 // 首
+
+Head // 頭
+
